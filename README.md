@@ -9,10 +9,10 @@ et un torpilleur (2 cases). Les joueurs placent leurs bateaux sur leur grille, e
 L'adversaire doit dire si le tir a touché ou manqué. 
 Le but est de couler tous les bateaux de l'autre joueur avant qu'il ne coule les vôtres.
 
-##INSTALLATION
+## INSTALLATION
 -cloner le dépot
 -accéder au repertoire du projet
 -
 
 ##LANCEMENT
--
+-éxécuter le code dans un éditeur de code
